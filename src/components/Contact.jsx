@@ -3,7 +3,7 @@ function Contact(){
   return (
 
     <section id="contact">
-      <h2>Contact US</h2>
+      <h2 >Contact US</h2>
       <div class="cont">
         <div class="address">
           <h3>Address</h3>
